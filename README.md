@@ -1,4 +1,12 @@
-<img src="Div3.gif" style="width: 200px; height: 100px; align:center;">
+<p align="center">
+  <img src="Div3.gif" width="100">
+</p>
 
-# lucidacid
-Lucidacid.py
+# LucidLead
+
+**Usage:**
+```bash
+python3 Lucidlead.py [-h] [-H HOST] [-u USERNAME] [-U USERLIST] -P PASSLIST [-t TIME] [--no-stop] [-v] [-o OUTPUT]
+
+`WARNING: this code currently works on certain models but not all of them`
+```
